@@ -9,7 +9,7 @@ Jekyll also offers powerful support for code snippets:
 
 {% highlight hcl %}
 resource "azurerm_resource_group" "this" {
-  name = "rg-test"
+  name   = "rg-test"
   region = "westeurope"
 }
 {% endhighlight %}
