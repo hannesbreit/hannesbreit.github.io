@@ -1,14 +1,9 @@
-title: Hannes Breitfeld
-author:
-  name: Hannes
-  email: your-email@domain.com
+title: Hannes 
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  Welcome to my blog, where I delve into the fascinating worlds of Cloud Computing, Infrastructure as Code (IaC), and Artificial Intelligence. Here, I share insights, tips, and ideas to help you navigate the rapidly evolving tech landscape. From mastering cloud technologies to automating infrastructure with code and harnessing AI's transformative potential, my goal is to provide valuable content that empowers you to innovate and stay ahead. Whether you're a seasoned professional or just starting out, I hope you'll find inspiration and practical knowledge to shape smarter, scalable, and future-ready solutions. Let's explore the future of technology together!
 
 # Build settings
 
@@ -30,10 +25,9 @@ plugins:
 # in order as they should show up.
 header_pages:
   - about.md
-  - test.md
 
 # Set to `true` to show excerpts on the homepage.
-#show_excerpts: false
+show_excerpts: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
