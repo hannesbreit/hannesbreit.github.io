@@ -23,3 +23,11 @@ url = "https://linkedin.com/in/hannes-breitfeld"
 
 [social.params]
 icon = "brand-linkedin"
+
+[[social]]
+identifier = "xing"
+name = "Xing"
+url = "https://www.xing.com/profile/Hannes_Breitfeld"
+
+[social.params]
+icon = "brand-xing"
