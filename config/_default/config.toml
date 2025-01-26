@@ -1,7 +1,6 @@
-# Change baseurl before deploy
 baseurl = "https://hannesbreit.github.com"
 languageCode = "en-us"
-title = "Hugo Theme Stack Starter"
+title = "Passionate Cloud Architect"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
